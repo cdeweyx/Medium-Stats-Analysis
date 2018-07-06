@@ -6,7 +6,7 @@ The goal is to collect baseline stats on stories from https://medium.com/me/stat
 #### Get your own data
 * Download and run `scrape_medium_stats.py` after replacing the `USER` and `PASS` variables with your Google login (your Medium account must be linked with Google in order for this to work)
 * If you want to tweak things or alter the code to work for alternate logins (Facebook, Twitter, etc.), then walk through the `Medium Stats Data Collection` jupyter notebook 
-* Once you've collected your data, it will likely be placed in a file named `mystats.csv` (similar to mine in this repo).
+* Once you've collected your data, it will be placed in a file named `mystats.csv` (similar to mine in this repo).
 
 #### Explore the data
 * Feel free to check out my analysis in `Medium Stats Data Analysis` or perform your own!
