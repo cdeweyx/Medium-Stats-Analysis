@@ -1,15 +1,20 @@
 # Medium-Stats-Analysis
 ### Exploring data and analyzing metrics for user-specific Medium Stats
 
+### See the Post
+Check out the full post on Medium: https://medium.com/@conordewey3
+
+### Introduction
 The goal is to collect baseline stats on stories from https://medium.com/me/stats in order to get a better understanding of how readers engage with a writers work. Note that this is a personal project and is in no way associated with Medium. In order to best utilize this repo, follow the following directives depending on your goals. If the Jupyter notebooks give you trouble rendering, just copy/paste the url at this link: https://nbviewer.jupyter.org/
 
 #### Get your own data
-* Download and run `scrape_medium_stats.py` after replacing the `USER` and `PASS` variables with your Google login (your Medium account must be linked with Google in order for this to work)
-* If you want to tweak things or alter the code to work for alternate logins (Facebook, Twitter, etc.), then walk through the `Medium Stats Data Collection` jupyter notebook 
+* Download and run `scrape_medium_stats.py` after replacing the `USER` and `PASS` variables with your Google login (your Medium account must be linked with Google)
+* If you want to tweak things or alter the code for alternate logins (Facebook, Twitter, etc.), then walk through the `Medium Stats Data Collection` jupyter notebook 
 * Once you've collected your data, it will be placed in a file named `mystats.csv` (similar to mine in this repo).
 
 #### Explore the data
-* Feel free to check out my analysis in `Medium Stats Data Analysis` or perform your own!
+* Check out my analysis in `Medium Stats Data Analysis` or perform your own!
+* An example of my data is available in `mystats.csv` as a starter dataset, feel free to share and explore.
 
 #### Notes
 It's worth noting that this type of analysis should be available to all writers, not just those that are data science practioners. Data analysis should be democratized for writers and content creators. Even with my ~30 post sample size, I was able to walk away with some interesting insights:
