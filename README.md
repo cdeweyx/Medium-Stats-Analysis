@@ -1,5 +1,4 @@
-# Medium-Stats-Analysis
-### Exploring data and analyzing metrics for user-specific Medium Stats
+# Medium-Stats-Analysis: Exploring data and analyzing metrics for user-specific Medium Stats
 
 ### See the Post
 Check out the full post on Medium: https://medium.com/@conordewey3
