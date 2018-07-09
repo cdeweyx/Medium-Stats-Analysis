@@ -15,7 +15,7 @@ Check out the full post on Medium: https://towardsdatascience.com/deconstructing
 * Check out my analysis in `Medium Stats Data Analysis` or perform your own!
 * An example of my data is available in `mystats.csv` as a starter dataset, feel free to share and explore.
 
-#### Notes
+### Notes
 It's worth noting that this type of analysis should be available to all writers, not just those that are data science practioners. Data analysis should be democratized for writers and content creators. Even with my ~30 post sample size, I was able to walk away with some interesting insights:
 * 2 out of my 30+ posts make up over 70% of my total lifetime views
 * `Read Ratio` and `Read Time` appear to be strongly correlated
