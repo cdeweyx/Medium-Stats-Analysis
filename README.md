@@ -4,6 +4,11 @@ Exploring data and analyzing metrics for user-specific Medium Stats
 ### Getting Started
 The goal is to collect baseline stats on stories from [Medium Stats](https://medium.com/me/stats) in order to get a better understanding of how readers engage with a writers work. Note that this is a personal project and is in no way associated with Medium. In order to best utilize this repo, follow the following directives depending on your goals. If the Jupyter notebooks give you trouble rendering, just copy/paste the url into [nbviewer](https://nbviewer.jupyter.org/) and it should work. 
 
+### See the Post
+I wrote a Medium post as well. You can find the post and more about metrics on Medium here: 
+
+[Deconstructing Metrics on Medium](https://towardsdatascience.com/deconstructing-metrics-on-medium-bf5b4863bf96)
+
 ### Data Collection
 * Download and run `scrape_medium_stats.py` after replacing the `USER` and `PASS` variables with your Google login (your Medium account must be linked with Google)
 * If you want to tweak things or alter the code for alternate logins (Facebook, Twitter, etc.), then walk through the `Medium Stats Data Collection` jupyter notebook 
@@ -12,11 +17,6 @@ The goal is to collect baseline stats on stories from [Medium Stats](https://med
 ### Data Analysis
 * Check out my analysis in `Medium Stats Data Analysis` or perform your own!
 * An example of my data is available in `mystats.csv` as a starter dataset, feel free to share and explore.
-
-### See the Post
-I wrote a Medium post as well. You can find the post and more about metrics on Medium here: 
-
-[Deconstructing Metrics on Medium](https://towardsdatascience.com/deconstructing-metrics-on-medium-bf5b4863bf96)
 
 ### Notes
 It's worth noting that this type of analysis should be available to all writers, not just those that are data science practioners. Data analysis should be democratized for writers and content creators. Even with my ~30 post sample size, I was able to walk away with some interesting insights:
