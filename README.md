@@ -1,5 +1,4 @@
 # Medium-Stats-Analysis
-Exploring data and analyzing metrics for user-specific Medium Stats
 
 ### Getting Started
 The goal is to collect baseline stats on stories from [Medium Stats](https://medium.com/me/stats) in order to get a better understanding of how readers engage with a writers work. Note that this is a personal project and is in no way associated with Medium. In order to best utilize this repo, follow the following directives depending on your goals. If the Jupyter notebooks give you trouble rendering, just copy/paste the url into [nbviewer](https://nbviewer.jupyter.org/) and it should work. 
